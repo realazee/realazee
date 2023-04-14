@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realazee
 - 👀 I’m interested in everything tech related, as well as programming!
-- 🌱 I’m currently learning React Native and NoSQL Databases
+- 🌱 I’m currently learning React Native and MongoDB
 - 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/aazheng/
 Discord: AZee#9236

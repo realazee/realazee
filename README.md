@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native and MongoDB
 - 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/aazheng/
-Discord: azee#0001
+Discord: 8ze
 Email: aaronz@bu.edu
 
 <!---

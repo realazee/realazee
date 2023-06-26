@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realazee
 - 👀 I’m interested in everything tech related, as well as programming!
-- 🌱 I’m currently learning React Native and MongoDB
+- 🌱 I’m currently learning Embedded Systems Programming
 - 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/aazheng/
 Discord: 8ze

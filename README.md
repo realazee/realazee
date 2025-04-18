@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 Discord: 8ze
 Email: aaronz@bu.edu
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realazee&layout=compact)
 <!---
 realazee/realazee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

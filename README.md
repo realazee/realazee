@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realazee
 - 👀 I’m interested in everything tech related, as well as programming!
-- 🌱 I’m currently learning Deep Learning and Multimedia Processing!
+- 🌱 I’m currently learning model development on Huggingface!
 - 📫 How to reach me:
 Discord: 8ze
 Email: aaronz@bu.edu

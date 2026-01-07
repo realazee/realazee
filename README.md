@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning model development on Huggingface!
 - 📫 How to reach me:
 Discord: 8ze
-Email: aaronz@bu.edu
+bsky: azee.bsky.social 
 
 <!---
 realazee/realazee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

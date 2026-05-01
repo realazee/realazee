@@ -5,6 +5,7 @@
 tilde.town/~azee
 Discord: 8ze
 bsky: azee.bsky.social
+email: azee@azee.sh
 
 One day I'll make a proper looking readme....today is not the day
 

@@ -2,7 +2,7 @@
 - 👀 I work in tech in the bay area!
 - 🌱 I’m currently learning model development on Huggingface!
 - 📫 How to reach me:
-tilde.town/~azee
+azee.sh
 Discord: 8ze
 bsky: azee.bsky.social
 email: azee@azee.sh
